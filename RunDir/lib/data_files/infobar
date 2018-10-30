@@ -1,0 +1,7 @@
+#
+INFOBAR
+
+Toggles the status bar at the bottom of your screen.  In order for it to work
+right, you must be using terminal that can emulate VT100, and your screen must
+have 24 rows.  You also must select "Y" for ANSI/VT100 on the main menu.  If
+your screen gets messed up, type RESET to clear it and rewrite the infobar.

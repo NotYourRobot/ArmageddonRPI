@@ -1,0 +1,34 @@
+* 20 cities just 1 for testing (MAX_CITIES = 2)
+* first city is CITY_NONE?
+End
+Name Allanak~
+Of ALLANAK~
+Room 3
+Crim_flag 0~
+Tribe 0~
+Zone 1
+* Commod is a float
+Commod Spice~ 1.0
+Commod Gems~ 1.0
+Commod Fur~ 1.0
+Commod Weapon~ 1.0
+Commod Armor~ 1.0
+Commod Wood~ 2.0
+Commod Magick~ 3.0
+Commod Art~ 1.0
+Commod Obsidian~ 1.0
+Commod Chitin~ 1.0
+Commod Bone~ 1.0
+Commod Glass~ 1.0
+Commod Silk~ 1.0
+Commod Ivory~ 1.0
+Commod Tortoiseshell~ 1.0
+Commod Duskhorn~ 1.0
+Commod Isilt~ 1.0
+Commod Salt~ 1.0
+Commod Gwoshi~ 1.0
+Commod Paper~ 1.0
+Commod Food~ 1.0
+Commod Feather~ 1.0
+* this is a comment - End signals end of this city
+End

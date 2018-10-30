@@ -1,0 +1,58 @@
+n|Arm Solo|1000|0|8|0|
+ep~
+Imm starting room. There are 3 rooms. Imm start, Hall of Kings, and mortal start.
+You can use imm commands to build more rooms or just create pcs to fight it
+out in the mortal start room for testing.
+~
+n|Sandy Hell|1001|3|0|0|
+ep~
+   The raging dust blasts against your face, making you squint with pain.
+You can barely see anything except the blur of the reddish brown sand
+that surrounds you.
+~
+d|3|1006||0|-1|~
+n|Hall of Kings|1003|0|156|0|
+C pulse hall_of_kings~
+ep~
+Just point to Allanak and away you go. Stats will be generated
+and you can see them in the gdb output. No other places to point to.
+~
+n|Ruins Of Allanak|1004|0|34078748|0|
+ep~
+   You see a heap of ruins. Where a city once stood, there are no
+walls or gates. Just flattened rubble as far as they eye can see.
+~
+d|0|1005||0|-1|~
+d|1|1006||0|-1|~
+d|2|1007||0|-1|~
+d|3|1008||0|-1|~
+n|Sandy Hell|1005|3|0|0|
+ep~
+   The raging dust blasts against your face, making you squint with pain.
+You can barely see anything except the blur of the reddish brown sand
+that surrounds you.
+~
+d|2|1004||0|-1|~
+n|Sandy Hell|1006|3|0|0|
+ep~
+   The raging dust blasts against your face, making you squint with pain.
+You can barely see anything except the blur of the reddish brown sand
+that surrounds you.
+~
+d|3|1004||0|-1|~
+d|1|1002||0|-1|~
+n|Sandy Hell|1007|3|0|0|
+ep~
+   The raging dust blasts against your face, making you squint with pain.
+You can barely see anything except the blur of the reddish brown sand
+that surrounds you.
+~
+d|0|1004||0|-1|~
+n|Sandy Hell|1008|3|0|0|
+ep~
+   The raging dust blasts against your face, making you squint with pain.
+You can barely see anything except the blur of the reddish brown sand
+that surrounds you.
+~
+d|1|1004||0|-1|~
+x|

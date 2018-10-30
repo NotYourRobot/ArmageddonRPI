@@ -1,0 +1,170 @@
+                      G E N E R A L   C O M M A N D S
+-------------------------------------------------------------------------------
+GOTO (1) - "goto <room>|<object>|<char>"
+AT (1) - "at <room>|<object>|<char> <command>"
+CSTAT\OSTAT (1) - "cstat <char>"\"ostat <object>"
+SHOW (1) - "show rooms|objects|npcs|zone <zone>"
+ZASSIGN (5) - "zassign <char> <zone>"
+LOG (1) - "log <msg>"
+PURGE (2) - "purge <char>|<object>"
+FORCE (3) - "force <char> <command>"
+ECHO (1) - "echo <msg>"
+TRANSFER (1) - "transfer <char>"
+ADVANCE (5) - "advance <char> <level>"
+SHUTDOWN (5) - "shutdown"
+SNOOP (3) - "snoop <char>"
+RESTORE (3) - "restore <char>"
+REROLL (4) - "reroll <char>"
+SWITCH (2) - "switch <char>"
+USERS (1) - "users"
+NOSHOUT (1) - "noshout <char>"
+CRIMINAL (3) - "criminal <char>"
+FREEZE (4) - "freeze <char>"
+RACES (2) - "races"
+BAN (5) - "ban <site name>"
+IMMCMDS (1) - "immcmds"
+ 
+                        W O R L D   B U I L D I N G
+-------------------------------------------------------------------------------
+RCREATE - "rcreate <room number>"
+RSET - "rset <field> [value]"
+     name <name>                  (room name)
+  "rset name The Grand Palace"
+     description                  (room description)
+  "rset desc"
+     link <dir> <room number>     (two-way exit to another room)
+  "rset link east 50926"
+     exit <dir> <room number>     (one-way exit to another room)
+  "rset exit north 20436"
+     edesc <keywords>             (extra description)
+  "rset edesc chair broken"
+          night                   (nighttime room description)
+  "rset edesc night"
+     sector <sector>              (sector type)
+  "rset sector city"
+     flags <flag>                 (room flags)
+  "rset flags indoors"
+     dflags <dir> <flag>          (direction flags)
+  "rset dflag east locked"
+     ddesc <dir>                  (direction description)
+  "rset ddesc west"
+     door                         (door information)
+     key <dir> <object number>    (key for door)
+  "rset key west 49306"
+RUNSET - "runset <field>"
+     same fields as RSET
+WSAVE - "wsave"
+ZSAVE - "zsave <zone>"
+ZCLEAR - "zclear <zone>"
+ZRESET - "zreset <zone>"
+ZNAME - "zname <zone name>"
+ZSET - "zset <zone> time|mode <value>"
+ 
+ 
+                       O B J E C T   C R E A T I O N
+-------------------------------------------------------------------------------
+OCREATE - "ocreate <object number>"
+OCOPY - "ocopy <obj> <obj>"
+OSAVE - "osave <zone>"
+OSET - "oset <obj> <field> <value>"
+     name <obj> <obj keywords>    ("sword long spiked")
+  "oset dust staff long wooden"
+     sdesc <obj> <obj sdesc>      ("a spiked long sword")
+  "oset fountain a small stone fountain"
+     ldesc <obj> <obj ldesc>      ("A spiked long sword is here.")
+  "oset tree a tree stands here, firmly rooted in the ground."
+     desc <obj>                   (object description)
+  "oset stone desc"
+     edesc <obj> <keywords>       (object extra description)
+  "oset chest edesc runes marks letters"
+     type <obj> <type>            (object type)
+  "oset pouch type container"
+     eflag <obj> <flag>           (extra flag)
+  "oset stone eflag humming"
+     wflag <obj> <flag>           (wear flag)
+  "oset shirt wflag body"
+     aff1 <obj> <value> <mod>     (first affect)
+  "oset sword aff1 damage 2"
+     aff2 <obj> <value> <mod>     (second affect)
+  "oset ring aff2 wisdom 1"
+     weight <weight>              (object weight)
+  "oset rock weight 3000"
+     cost <cost>                  (object cost)
+  "oset gem cost 1200"
+     material <type of material>  (object material)
+  "oset shard material glass"
+     limit <#>                    (object limit)
+  "oset ring limit 2"
+     damage XdY+Z                 (weapon damage)
+  "oset scythe damage 2d4+2"
+     wtype <weapon type>          (weapon type)
+  "oset sword wtype slash"
+OUNSET - "ounset <field>"
+     same fields as OSET
+OUPDATE - "oupdate <obj>"
+ 
+ 
+                          N P C   C R E A T I O N
+--------------------------------------------------------------------------------
+CSET - "cset <npc> <field> <value>"
+     level <#>                    (immortal level of character)
+  "cset Yxya level 1"
+     sex <sex>                    (female, male, or neuter)
+  "cset mantis sex neuter"
+     damage <#>                   (damage modifier)
+  "cset dog damage 2"
+     hps <#>                      (maximum health points)
+  "cset Ulran hps 1"
+     armor <#>                    (natural armor points)
+  "cset tarrasaque armor 120"
+     language <language>          (language currently spoken)
+  "cset templar language tatlum"
+     guild <guild>                (guild of character)
+  "cset priest guild sun"
+     tribe <#>                    (tribe or clan)
+  "cset slave tribe 50106"
+     offense <#>                  (offense points)
+  "cset cripple offense -20"
+     defense <#>                  (defense points)
+  "cset shadow defense 100"
+     race <race>                  (race of the character)
+  "cset elf race elf"
+     obsidian <#>                 (obsidian carried)
+  "cset merchant obsidian 1500"
+     coin_mod <#>                 (random modifier to money)
+  "cset beggar coin_mod 10"
+     strength <#>                 (strength of character)
+  "cset giant strength 24"
+     agility <#>                  (agility of character)
+  "cset elf agility 22"
+     wisdom <#>                   (wisdom of character)
+  "cset dog wisdom 3"
+     endurance <#>                (endurance of character)
+  "cset human edurance 12"
+     name <keywords>              (keyword list or name)
+  "cset clay name human man tall black"
+     sdesc <sdesc>                (short description)
+  "cset priest sdesc the priest of Whira"
+     ldesc <ldesc>                (long description)
+  "cset beggar ldesc a beggar squats here, silently pleading."
+     extra <keywords>             (extended keyword list)
+  "cset Grimsilindale extra dragon huge black Grim"
+     skill <#> <skill>           (skills)
+  "cset Gauldron skill 100 steal"
+     power <#> <spell>            (power level of spell)
+  "cset Gauldron power 6 armor"
+     city <city>                  (home city of character)
+  "cset Tektolnes city allanak
+     talk                         (keywords/message for talking)
+     desc                         (character description)
+  "cset rhino desc"
+     flags <flag>                 (character flags)
+  "cset thief flag crim_allanak"
+     affect <flag>                (affect flags)
+  "cset priest affect fly"
+CUNSET - "cunset <field>"
+     same field as CSET
+MCREATE - "mcreate <mobile number>"
+MDUP - "mdup <npc>"
+MSAVE - "msave <zone #>"
+MUPDATE - "mupdate <npc>"

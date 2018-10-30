@@ -1,0 +1,1020 @@
+Sorcerer~
+Sor~
+-2 0 2 -2
+10 20 0 0
+1
+hands of wind~
+godspeed~
+90 30
+sandstorm~
+godspeed~
+90 30
+summon~
+banishment~
+90 30
+banishment~
+sandstorm~
+90 30
+guardian~
+sandstorm~
+90 30
+gate~
+guardian~
+90 30
+feather fall~
+hands of wind~
+90 30
+levitate~
+feather fall~
+90 30
+fly~
+levitate~
+90 30
+godspeed~
+none~
+90 30
+teleport~
+hands of wind~
+90 30
+relocate~
+teleport~
+90 30
+mount~
+create food~
+90 30
+detect magick~
+none~
+90 30
+detect poison~
+detect magick~
+90 30
+poison~
+cure poison~
+90 30
+detect invisible~
+infravision~
+90 30
+invisibility~
+psionic sup~
+90 30
+detect ethereal~
+detect invisible~
+90 30
+ethereal~
+invisibility~
+40 20
+ball of light~
+dispel magick~
+90 30
+infravision~
+detect magick~
+90 30
+psionic sup~
+detect magick~
+90 30
+armor~
+none~
+90 30
+stone skin~
+armor~
+90 30
+invulnerability~
+stone skin~
+90 30
+sanctuary~
+invulnerability~
+90 30
+pyrotechnics~
+armor~
+90 30
+lightning bolt~
+pyrotechnics~
+90 30
+fireball~
+lightning bolt~
+90 30
+rain of fire~
+fireball~
+90 30
+calm~
+dispel magick~
+90 30
+strength~
+fury~
+90 30
+weaken~
+strength~
+90 30
+stamina drain~
+armor~
+90 30
+fury~
+dispel magick~
+90 30
+insomnia~
+calm~
+90 30
+sleep~
+insomnia~
+90 30
+health drain~
+aura drain~
+90 30
+aura drain~
+stamina drain~
+90 30
+energy drain~
+health drain~
+90 30
+heal~
+aura drain~
+40 10
+animate dead~
+heal~
+90 30
+silence~
+deafness~
+90 30
+tongues~
+deafness~
+90 30
+deafness~
+calm~
+90 30
+blind~
+cure blind~
+90 30
+alarm~
+dispel magick~
+90 30
+glyph~
+alarm~
+90 30
+dispel magick~
+none~
+90 30
+empower~
+glyph~
+90 30
+create water~
+ball of light~
+90 30
+create food~
+ball of light~
+90 30
+cure poison~
+detect poison~
+90 30
+cure blind~
+detect poison~
+90 30
+dome~
+barrier~
+60 5
+contact~
+none~
+60 5
+dual wield~
+none~
+20 5
+S~
+Burglar~
+Bgl~
+0 1 0 0
+30 50 0 5
+1
+pick~
+none~
+90 30
+sneak~
+none~
+95 10
+climb~
+none~
+90 15
+hide~
+none~
+90 10
+search~
+hide~
+40 10
+listen~
+none~
+90 10
+steal~
+none~
+60 10
+peek~
+none~
+60 5
+throw~
+none~
+90 10
+poisoning~
+steal~
+40 10
+brew~
+steal~
+40 10
+haggle~
+none~
+40 15
+dual wield~
+none~
+50 5
+trap~
+pick~
+50 10
+backstab~
+dual wield~
+40 5
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+piercing weapons~
+none~
+40 5
+slashing weapons~
+none~
+30 5
+S~                                            
+Pick-pocket~
+Pkp~
+0 2 0 0
+30 50 0 5
+1
+steal~
+none~
+95 20
+peek~
+none~
+95 15
+sneak~
+none~
+95 10
+haggle~
+none~
+85 10
+climb~
+none~
+60 10
+dual wield~
+none~
+40 10
+parry~
+dual wield~
+45 5
+hide~
+sneak~
+60 10
+listen~
+sneak~
+50 5
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+piercing weapons~
+none~
+40 5
+slashing weapons~
+none~
+30 5
+S~
+Warrior~
+War~
+1 0 -1 1
+40 40 12 12
+1
+kick~
+none~
+80 15
+bash~
+none~
+80 15
+rescue~
+none~
+90 15
+disarm~
+none~
+30 5
+parry~
+none~
+65 5 
+subdue~
+none~
+50 10
+dual wield~
+none~
+90 10
+shield use~
+none~
+60 10
+bandage~
+rescue~
+35 10
+guarding~
+rescue~
+90 20
+throw~
+parry~
+70 15
+archery~
+parry~
+65 10
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+piercing weapons~
+none~
+70 10
+slashing weapons~
+none~
+70 10
+chopping weapons~
+none~
+70 10
+bludgeoning weapons~
+none~
+70 10
+S~
+Templar~
+Tpl~
+1 0 1 0
+40 40 8 8
+1
+RW Tatlum~
+none~
+90 80
+RW Sirihish~
+none~
+90 80
+detect invis~
+none~
+90 80
+kick~
+none~
+80 30
+peek~
+none~
+95 30
+bash~
+none~
+80 30
+rescue~
+none~
+90 30
+disarm~
+none~
+30 30
+parry~
+none~
+50 30
+contact~
+none~
+65 10
+barrier~
+none~
+60 10
+dual wield~
+none~
+90 30
+S~
+Ranger~
+Rng~
+0 0 1 1
+35 50 5 15
+1
+rescue~
+none~
+95 15
+guarding~
+rescue~
+95 15
+trap~
+none~
+70 10
+hunt~
+none~
+85 15
+climb~
+hunt~
+90 15
+poisoning~
+hunt~
+75 5
+brew~
+hunt~
+90 15
+bandage~
+none~
+95 10
+listen~
+none~
+80 5
+dual wield~
+none~
+95 5
+parry~
+dual wield~
+50 10
+scan~
+none~
+90 10
+archery~
+none~
+90 20
+throw~
+archery~
+80 20
+ride~
+none~
+95 20
+sneak~
+listen~
+80 10
+hide~
+scan~
+70 10
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+piercing weapons~
+none~
+70 10
+slashing weapons~
+none~
+70 10
+chopping weapons~
+none~
+70 10
+bludgeoning weapons~
+none~
+70 10
+S~
+Merchant~
+Mch~
+0 0 1 1
+20 20 5 5
+1
+bandage~
+none~
+80 10
+RW Cavalish~
+none~
+95 80
+haggle~
+none~
+95 30
+ride~
+none~
+95 15
+pilot~
+none~
+95 15
+value~
+none~
+95 20
+scan~
+none~
+80 10
+listen~
+none~
+80 5
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+S~
+Assassin~
+Asn~
+0 0 0 0
+50 30 15 5
+1
+throw~
+none~
+80 5
+backstab~
+none~
+90 5
+poisoning~
+backstab~
+85 5
+brew~
+backstab~
+90 10
+listen~
+sneak~
+80 5
+scan~
+hunt~
+80 5
+hide~
+none~
+90 5
+hunt~
+hide~
+50 5
+sneak~
+none~
+95 5
+trap~
+none~
+60 5
+pick~
+trap~
+25 5
+dual wield~
+none~
+70 5
+climb~
+none~
+50 15
+parry~
+dual wield~
+40 10
+contact~
+none~
+60 5
+barrier~
+none~
+65 5
+piercing weapons~
+none~
+70 10
+S~
+Fire Elementalist~
+Fre~
+0 0 1 0
+20 20 0 0
+1
+detect magick~
+none~
+90 40
+ball of light~
+none~
+90 40
+tongues~
+detect magick~
+90 40
+dispel magick~
+none~
+90 40
+parch~
+none~
+90 40
+empower~
+dispel magick~
+90 40
+gate~
+glyph~
+90 40
+flamestrike~
+none~
+90 40
+pyrotechnics~
+ball of light~
+90 40
+glyph~
+none~
+90 40
+fireball~
+flamestrike~
+90 40
+rain of fire~
+fireball~
+90 40
+demonfire~
+fireball~
+90 40
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+dual wield~
+none~
+25 5
+S~
+Water Elementalist~
+Wte~
+0 0 1 0
+20 20 0 0
+1
+detect poison~
+none~
+90 40
+calm~
+none~
+90 40
+heal~
+none~
+90 40
+determine relationship~
+detect poison~
+90 40
+cure poison~
+detect poison~
+90 40
+create water~
+none~
+90 40
+oasis~
+create water~
+90 40
+gate~
+oasis~
+90 40
+invulnerability~
+none~
+90 40
+deafness~
+thunder~
+90 40
+sanctuary~
+invulnerability~
+90 40
+silence~
+calm~
+90 40
+thunder~
+none~
+90 40
+poison~
+detect poison~
+90 40
+health drain~
+heal~
+90 40
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+dual wield~
+none~
+20 5
+S~
+Stone Elementalist~
+Ste~
+0 0 1 1
+20 20 0 0
+1
+create food~
+none~
+90 40
+fury~
+none~
+90 40
+rewind~
+show the path~
+90 40
+strength~
+weaken~
+90 40
+show the path~
+none~
+90 40
+mount~
+create food~
+90 40
+godspeed~
+fury~
+90 40
+burrow~
+wall of sand~
+90 40
+armor~
+none~
+90 40
+alarm~
+armor~
+90 40
+weaken~
+none~
+90 40
+wall of sand~
+none~
+90 40
+sleep~
+weaken~
+90 40
+feeblemind~
+sleep~
+90 40
+stone skin~
+armor~
+90 40
+sand jambiya~
+create food~
+90 40
+gate~
+sand jambiya~
+90 40
+earthquake~
+wall of sand~
+90 40
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+dual wield~
+none~
+20 5
+S~
+Wind Elementalist~
+Wne~
+0 0 1 0
+20 20 0 0
+1
+detect invisible~
+none~
+90 40
+feather fall~
+none~
+90 40
+invisibility~
+detect invisible~
+90 40
+sandstorm~
+feather fall~
+90 40
+guardian~
+none~
+90 40
+stalker~
+guardian~
+90 40
+repel~
+hands of wind~
+90 40
+hands of wind~
+none~
+90 40
+teleport~
+none~
+90 40
+banishment~
+hands of wind~
+90 40
+levitate~
+none~
+90 40
+relocate~
+teleport~
+90 40
+transference~
+teleport~
+90 40
+summon~
+teleport~
+90 40
+gate~
+summon~
+90 40
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+dual wield~
+none~
+25 5
+S~
+Psionicist~
+Psi~
+0 1 3 2
+20 20 0 0
+1
+barrier~
+none~
+60 20
+contact~
+none~
+60 20
+allspeak~
+contact~
+90 10
+silent psi~
+contact~
+60 10
+masquerade~
+silent psi~
+60 10
+illusion~
+masquerade~
+60 10
+cathexis~
+allspeak~
+75 10
+empathy~
+none~
+60 10
+expel~
+barrier~
+60 10
+dome~
+barrier~
+60 10
+mindwipe~
+expel~
+80 10
+locate~
+none~
+60 20
+trace~
+locate~
+75 20
+shadowwalk~
+control~
+90 10
+probe~
+empathy~
+90 10
+compel~
+probe~
+90 10
+hear~
+trace~
+90 10
+clairaudience~
+hear~
+90 10
+control~
+trace~
+90 10
+piercing weapons~
+none~
+40 5
+S~
+Drov Elementalist~
+Drv~
+0 0 1 0
+20 20 0 0
+1
+infravision~
+none~
+90 40
+create darkness~
+none~
+90 40
+restful shade~
+none~
+90 40
+detect ethereal~
+none~
+90 40
+cure blind~
+none~
+90 40
+remove curse~
+none~
+90 40
+fear~
+create darkness~
+90 40
+blind~
+cure blind~
+90 40
+curse~
+remove curse~
+90 40
+send shadow~
+restful shade~
+90 40
+ethereal~
+detect ethereal~
+90 40
+gate~
+send shadow~
+90 40
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+dual wield~
+none~
+25 5
+S~
+Lightning Elementalist~
+Ltn~
+0 0 1 0
+20 20 0 0
+1
+flourescent footsteps~
+none~
+90 30
+stamina drain~
+none~
+90 30
+insomnia~
+none~
+90 30
+energy shield~
+insomnia~
+90 30
+lightning bolt~
+none~
+90 30
+paralyze~
+stamina drain~
+90 30
+refresh~
+none~
+90 30
+regenerate~
+refresh~
+90 30
+slow~
+none~
+90 30
+lightning storm~
+lightning bolt~
+90 30
+quickening~
+slow~
+90 30
+chain lightning~
+lightning bolt~
+90 30
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+dual wield~
+none~
+25 5
+S~
+Void Elementalist~
+Voi~
+0 0 1 0
+20 20 0 0
+1
+psionic suppression~
+none~
+90 40
+shield of nilaz~
+none~
+90 40
+forbid element~
+shield of nilaz~
+90 40
+pseudo_death~
+none~
+90 40
+animate dead~
+pseudo_death~
+90 40
+elemental fog~
+none~
+90 40
+turn element~
+elemental fog~
+90 40
+portable hole~
+none~
+90 40
+gate~
+portable hole~
+90 40
+mark~
+none~
+90 40
+travel gate~
+mark~
+90 40
+vortex~
+mark~
+90 40
+contact~
+none~
+60 5
+barrier~
+none~
+60 5
+dual wield~
+none~
+25 5
+S~

@@ -1,0 +1,233 @@
+{*CHAR*}
+1
+	{*NAME*}
+	Imzario~
+	{*SDESC*}
+	the big cheese imzario~
+	{*DESC*}
+	Imzario is just a stand in to get you started.  Make your own pc and have
+Imzario promote them to overlord.  
+~
+	{*TDESC*}
+	(null)~
+	{*KEYWORDS*}
+	big cheese imzario~
+	{*PREVIOUS CHARACTER*}
+	born~
+	{*INFO 0*}
+	imzario~
+	{*INFO 1*}
+	~
+	{*INFO 2*}
+	~
+	{*INFO 3*}
+	~
+	{*INFO 4*}
+	~
+	{*INFO 5*}
+	~
+	{*INFO 6*}
+	~
+	{*INFO 7*}
+	~
+	{*INFO 8*}
+	~
+	{*INFO 9*}
+	~
+	{*INFO 10*}
+	~
+	{*INFO 11*}
+	~
+	{*INFO 12*}
+	~
+	{*INFO 13*}
+	~
+	{*INFO 14*}
+	~
+	{*BACKGROUND*}
+	Imzario popped into being on a whim.  He only wants to hang around a
+little while, just long enough to pass the magic on.  
+~
+	{*APPLICATIONSTATUS*}
+	0
+	{*SEX*}
+	male~
+	{*GUILD*}
+	Warrior~
+	{*SUB-GUILD*}
+	armor crafter~
+	{*RACE*}
+	Human~
+	{*LEVEL*}
+	Overlord~
+	{*HOMETOWN*}
+	Allanak~
+	{*STARTCITY*}
+	Allanak~
+	{*ACCOUNT*}
+	Imzario~
+	{*CLAN*}
+	WuTang Clan~
+	{*PAGELEN*}
+	24
+	{*CLAN 0*}
+	-1~ ~ 1
+	{*LUCK*}
+	0
+	{*WEIGHT*}
+	9
+	{*HEIGHT*}
+	78
+	{*LANGUAGE*}
+	sirihish~
+	{*ACCENT*}
+	none~
+	{*THIRST*}
+	-1
+	{*FULL*}
+	-1
+	{*DRUNK*}
+	0
+	{*ECO*}
+	0
+	{*CFLAGS*}
+	~
+	{*QFLAGS*}
+	~
+	{*BRIEF*}
+	~
+	{*NOSAVE*}
+	arrest / ~
+	{*MERCY*}
+	~
+	{*AFLAGS*}
+	~
+	{*UID*}
+	0
+	{*GROUP*}
+	0
+	{*POOFIN*}
+	(null)~
+	{*POOFOUT*}
+	(null)~
+	{*PROMPT*}
+	(null)~
+	{*ALIAS 0*}
+	~ ~
+	{*ALIAS 1*}
+	~ ~
+	{*ALIAS 2*}
+	~ ~
+	{*ALIAS 3*}
+	~ ~
+	{*ALIAS 4*}
+	~ ~
+	{*ALIAS 5*}
+	~ ~
+	{*ALIAS 6*}
+	~ ~
+	{*ALIAS 7*}
+	~ ~
+	{*ALIAS 8*}
+	~ ~
+	{*ALIAS 9*}
+	~ ~
+	{*STR*}
+	0
+	{*END*}
+	0
+	{*AGL*}
+	0
+	{*WIS*}
+	0
+	{*MANA*}
+	0
+	{*HITS*}
+	0
+	{*MAX HITS*}
+	84
+	{*STUN*}
+	0
+	{*MAX STUN*}
+	84
+	{*MOVES*}
+	100
+	{*ARMOR*}
+	0
+	{*OBSIDIAN*}
+	1133
+	{*IN BANK*}
+	0
+	{*OFFENSE*}
+	12
+	{*OFFENSE LAST GAIN*}
+	1536949046
+	{*DEFENSE*}
+	12
+	{*DEFENSE LAST GAIN*}
+	1536949046
+	{*DAMAGE*}
+	0
+	{*INVIS LEVEL*}
+	0
+	{*QUIET LEVEL*}
+	0
+	{*LOAD ROOM*}
+	0
+	{*LAST LOGON*}
+	1536949527
+	{*STARTING TIME*}
+	1536949046
+	{*STARTING AGE*}
+	30
+	{*AGE*}
+	30
+	{*PLAYING TIME*}
+	192
+	{*SKILL contact*}
+	5 0 0 0
+	{*SKILL barrier*}
+	5 0 0 0
+	{*SKILL willpower*}
+	5 0 5 0
+	{*SKILL sirihish*}
+	100 0 0 0
+	{*SKILL archery*}
+	40 0 0 0
+	{*SKILL kick*}
+	15 0 0 0
+	{*SKILL bash*}
+	15 0 0 0
+	{*SKILL rescue*}
+	15 0 0 0
+	{*SKILL disarm*}
+	5 0 0 0
+	{*SKILL parry*}
+	5 0 0 0
+	{*SKILL dual wield*}
+	10 0 0 0
+	{*SKILL subdue*}
+	10 0 0 0
+	{*SKILL piercing weapons*}
+	10 0 0 0
+	{*SKILL slashing weapons*}
+	10 0 0 0
+	{*SKILL chopping weapons*}
+	10 0 0 0
+	{*SKILL bludgeoning weapons*}
+	10 0 0 0
+	{*SKILL alcohol*}
+	11 0 4 0
+	{*SKILL tol pain*}
+	0 0 5 0
+	{*SKILL shield use*}
+	10 0 0 0
+	{*SKILL watch*}
+	5 0 1 0
+	{*SKILL 
+*}
+	0 0 0 0
+	{*EXTRA_DESC_KEYWORDS 0*}
+	[AGE_STAT_INIT]~
+	{*EXTRA_DESC_DESCRIPTION 0*}
+	1~

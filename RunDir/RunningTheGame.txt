@@ -1,0 +1,68 @@
+Install cygwin.
+
+Unzip the file
+>tar -xvf CodeDumpEasy.tgz
+>cd CodeDumpEasy
+
+Type the following
+>pwd
+This gives you the directory for your machine.
+Edit the file db.h where it says "/cygdrive/e/CodeDumpEasy/RunDir" to the drive letter you are using.
+
+In directory /CodeDumpEasy type:
+>make
+
+This should make the executable easyArm
+
+>mv easyArm ./RunDir/
+>cd RunDir
+
+to run type
+>./easyArm 
+
+You will see some logged information similar to:
+>"date/time": Descriptors: x, FD_SETSIZE: y
+
+The mud is now running and waiting for you to log in
+
+Open another terminal then
+>telnet localhost 2000
+
+You should get to the arm menu. 
+
+An account has already been created: Imzario
+password: abcdef
+
+Imzario is overlord. 
+/lib/text_files/godhelp is a start on imm commands type "wizhelp" in the game to get the commands.
+Some imm commands have hardcoded help (when building things for example).
+
+Notes:
+If you create a new account you will have to hit <enter> twice at the email-address
+email-address doesn't have to be valid, it is only a file here
+
+Subguild is irrelevant (they are defined in a file and currently are all the same - just two skills). Edit lib/data_files/subguilds to change the skills.
+
+Still have to submit the application and exit. Then login again to play. The password is set to "abcdef". You don't have to change it (just enter that again when it prompts you to change the password).
+
+Crafting recipes are kept in lib/data_files/crafting.xml. You have one sample with the cook skill.
+
+There are no help files: lib/data_files/help_files/
+
+There are no clans: lib/data_files/clans and the subdirectories clan_banks, clan_ranks.
+
+Only 3 races: lib/data_files/races.
+
+No foraging (uses database tables - changing to xml or flat file would be a pain).
+
+No dmpl or javascript in this version. It uses the C assigned program for the starting room teleport (somewhere in special.c).
+
+Open up multiple terminals to login and create different characters. GOTO the character name with your overlord and change their stats, set them to fighting, etc.
+
+Use the OLC to create new items, rooms, npcs.
+
+
+
+
+
+

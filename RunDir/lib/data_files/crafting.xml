@@ -1,0 +1,22 @@
+<CRAFT>
+    <ITEM>
+      <NAME>charred meat</NAME>
+      <DESC>You are cooking with gas.</DESC>
+      <FROM>7</FROM>
+      <INTO_SUCCESS>6</INTO_SUCCESS>
+      <INTO_FAIL>8</INTO_FAIL>
+      <SKILL>cooking</SKILL>
+      <PERC_MIN>90</PERC_MIN>
+      <PERC_MOD>10</PERC_MOD>
+      <DELAY_MIN>1</DELAY_MIN>
+      <DELAY_MAX>2</DELAY_MAX>
+      <TO_CHAR_SUCCESS>Meh, what did you expect?</TO_CHAR_SUCCESS>
+      <TO_ROOM_SUCCESS>There's a cook in the house.</TO_ROOM_SUCCESS>
+      <TO_CHAR_FAIL>You suck.</TO_CHAR_FAIL>
+      <TO_ROOM_FAIL>Hey everyone, no cooks here.</TO_ROOM_FAIL>
+      <ONLY_TRIBE>0</ONLY_TRIBE>
+      <REQUIRE_FIRE>0</REQUIRE_FIRE>
+      <TOOL_TYPE>none</TOOL_TYPE>
+      <TOOL_QUALITY>0</TOOL_QUALITY>
+    </ITEM>
+</CRAFT>

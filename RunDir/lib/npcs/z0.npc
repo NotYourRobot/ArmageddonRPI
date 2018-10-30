@@ -1,0 +1,38 @@
+#2 -1
+withered hag woman~
+the withered hag~
+The withered hag is standing here.
+~
+Withered as an old kalan fruit, this old woman has loosely hanging skin
+on her slight frame.  Two black eyes peer out hawkishly from the folds of
+her face, deeply sunken yet alert and sharp.  Her long, sinewy limbs, 
+showing a tracery of blue veins, are supported by knobby, overlarge joints
+on her elbows, knees and hands.  A wild tangle of white hair sprouts from
+her head.  Stooped and withered as this woman is, her movements are still
+quite spry and determined.
+~
+~
+10 0 0 0 S
+1 20 20 0 80 0
+0 0
+7 7 2 1 0 0 2
+ep~
+S 2 80
+S 7 80
+S 10 50
+S 13 80
+S 18 50
+S 30 80
+S 45 80
+S 62 80
+S 64 80
+S 73 50
+S 74 80
+S 77 100
+S 78 5
+S 91 5
+S 101 100
+S 103 100
+S 121 100
+S 169 65
+$

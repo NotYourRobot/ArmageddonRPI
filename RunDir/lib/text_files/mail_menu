@@ -1,0 +1,13 @@
+Don't mail to yourself.
+([1mL[0m) List your mail messages
+([1mR[0m) Read and delete a mail message
+    (Usage: R sender) 
+([1mS[0m) Read and save a mail message
+    (Usage: S sender) 
+([1mD[0m) Delete a mail message
+    (Usage: D sender) 
+([1mM[0m) Send a mail message
+    (Usage: M recipient)
+
+([1mX[0m) Main menu
+([1m?[0m) Read menu options

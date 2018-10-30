@@ -1,0 +1,13 @@
+Get out of here. Don't send mail to yourself.
+(L) List your mail messages
+(R) Read and delete a mail message
+    (Usage: R sender) 
+(S) Read and save a mail message
+    (Usage: S sender) 
+(D) Delete a mail message
+    (Usage: D sender) 
+(M) Send a mail message
+    (Usage: M recipient)
+
+(X) Main menu
+(?) Read menu options

@@ -1,0 +1,194 @@
+#1 -1
+bow~
+a cheesy bow~
+a cheesy bow is here, kinda smelly.~
+~
+28 0 16385 1 3
+1 0 0 0 0 1
+0 0 0
+0 0 0 0
+ep~
+A
+0 0
+A
+0 0
+#2 -1
+arrow~
+a cheesy arrow~
+a cheesy arrow is here, probably gouda.~
+~
+5 512 8193 8 0
+5 5 2 0 0 1
+0 0 0
+0 0 0 0
+ep~
+A
+0 0
+A
+0 0
+#3 -1
+black shoes~
+a pair of black shoes~
+A pair of black shoes~
+A pair of black shoes, almost too plain to bear.
+~
+9 0 65 8 2
+2 5 0 5 0 2
+30 0 0
+0 0 0 0
+ep~
+A
+0 0
+A
+0 0
+#4 -1
+black shirt~
+a black shirt~
+There is a black shirt made of cloth lying here.~
+~
+9 0 9 9 3
+3 5 0 5 0 2
+25 0 0
+0 0 0 0
+ep~
+A
+0 0
+A
+0 0
+#5 -1
+coat black~
+a black coat~
+A black coat lies here on the ground.~
+~
+9 0 1025 9 4
+4 5 0 5 0 6
+24 0 0
+0 0 0 0
+ep~
+A
+0 0
+A
+0 0
+#6 -1
+charred meat~
+a strip of charred meat~
+A charred strip of meat lies here.~
+This long strip of meat has been char-roasted over an open flame to a
+pitch black color. 
+~
+19 0 1 8 4
+0 0 0 0 0 1
+8 0 0
+0 1 0 0
+ep~
+A
+0 0
+A
+0 0
+#7 -1
+raw meat~
+a raw piece of meat~
+A raw piece of meat lies here.~
+This is a red bloody raw piece of meat. 
+~
+19 0 1 8 4
+0 0 0 0 0 1
+8 0 0
+0 1 0 0
+ep~
+A
+0 0
+A
+0 0
+#8 -1
+burned meat~
+a burned piece of meat~
+A burned piece of meat lies here.~
+This is burned piece of meat. 
+~
+19 0 1 8 4
+0 0 0 0 0 1
+8 0 0
+0 1 0 0
+ep~
+A
+0 0
+A
+0 0
+#9 -1
+waterskin skin~
+a waterskin~
+A waterskin is here.~
+~
+17 0 1 8 15
+0 0 0 0 0 1
+5 0 0
+0 0 0 0
+ep~
+A
+0 0
+A
+0 0
+#10 -1
+dagger~
+a dagger~
+A dagger lies here.~
+ 
+   A plain as can be dagger.
+~
+5 0 24577 3 -1
+1 4 3 0 0 3
+15 0 0
+0 0 0 0
+ep~
+A
+18 -5
+A
+29 -5
+#11 -1
+spear short~
+a short spear~
+A short spear lies here.~
+   A plain short spear.
+~
+5 68608 8193 3 0
+1 6 2 0 0 9
+36 0 0
+0 0 0 0
+ep~
+A
+0 0
+A
+0 0
+#12 -1
+staff~
+a staff~
+A staff lies here.~
+   A plain old staff.
+~
+5 73728 8193 1 -1
+1 6 1 0 0 3
+6 0 0
+0 0 0 0
+ep~
+A
+29 5
+A
+0 0
+#17 -1
+dagger~
+a dagger~
+A dagger lies here.~
+ 
+   A plain as can be dagger.
+~
+5 0 24577 1 -1
+1 4 3 0 0 3
+15 0 0
+0 0 0 0
+ep~
+A
+18 -5
+A
+29 -5
+$
